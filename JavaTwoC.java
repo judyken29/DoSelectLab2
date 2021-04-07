@@ -3,7 +3,7 @@ package lab;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class java3 {
+public class JavaTwoC{
 	public static void main(String[] args) {
 		int n, i;
 		java3 three = new java3 ();
